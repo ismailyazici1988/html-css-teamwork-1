@@ -1,0 +1,19 @@
+.title {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0 15rem;
+  padding: 3rem;
+  font-family: "Montserrat", sans-serif;
+}
+.left-container {
+  margin-right: 1rem;
+}
+
+.right-container img {
+  height: 24rem;
+}
